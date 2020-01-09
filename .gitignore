@@ -6,3 +6,5 @@ venv
 /static
 .DS_Store
 .idea
+db.sqlite3
+runserver.sh
